@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/excel-text-converter/static/css/main.a24053be.css",
+    "main.js": "/excel-text-converter/static/js/main.22e16adf.js",
+    "static/js/453.9ea12dd4.chunk.js": "/excel-text-converter/static/js/453.9ea12dd4.chunk.js",
+    "static/media/logo.svg": "/excel-text-converter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/excel-text-converter/index.html",
+    "main.a24053be.css.map": "/excel-text-converter/static/css/main.a24053be.css.map",
+    "main.22e16adf.js.map": "/excel-text-converter/static/js/main.22e16adf.js.map",
+    "453.9ea12dd4.chunk.js.map": "/excel-text-converter/static/js/453.9ea12dd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24053be.css",
+    "static/js/main.22e16adf.js"
+  ]
+}
